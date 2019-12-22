@@ -1,2 +1,2 @@
-echo "Hellow world!"
+echo "Hello world!"
 df -h 
