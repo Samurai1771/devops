@@ -10,3 +10,4 @@ echo "end"
 >>>>>>> parent of 7cc560c... rename file and change script
 =======
 >>>>>>> parent of af0bbf0... add head
+echo "change on dev"
